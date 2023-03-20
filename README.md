@@ -1,10 +1,9 @@
-- 👋 Hi, I’m [_**Aayushi Dubey**_](https://www.linkedin.com/in/aayushidubey16/)
-- 👀 I’m interested in **Software Development & Data Engineering**.
-- 🌱 I’m currently pursuing Master's of Computer Science at [San Diego State University](https://cs.sdsu.edu/). 
-- 💞️ I’m actively seeking full time opportunities for summer 2023.
+## Hi there 👋 I'm [_**Aayushi Dubey**_](https://www.linkedin.com/in/aayushidubey16/), a Computer Science graduate student at 🎓 [San Diego State University](https://cs.sdsu.edu/).
+- 💻 I have strong skills in **Software Development & Data Engineering**.
+- 💼 Last summer, I interned as a Software Dev Engineer Intern at Amazon in Seattle, where I built an end-to-end automated AWS framework that triggers, tracks, and reports the validation of the AWS Glue datasets.
+- 🏢 Previously, I worked as a Senior Software Developer at Reliance Jio Infocomm Limited in India, where I participated in the development and maintenance of [Jio Coverage Platform](https://www.jio.com/platforms/resource-center/video/jio-coverage-platform), a network intelligence platform that provides a single stop for identification and solution of all network issues, intuitive visualizations and advanced analytics.
+- 🌟 In my free time, I enjoy working on personal projects and exploring new technologies.
+- 📫 Feel free to reach out to me at [adubey4558@sdsu.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/aayushidubey16/).
+- 🏢 I’m actively seeking full time opportunities.
 
-![Aayushi's github stats](https://github-readme-stats.vercel.app/api?username=aayushidubey16&count_private=true&hide=contribs&show_icons=true)
-<!---
-aayushidubey16/aayushidubey16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushidubey16&layout=compact&theme=buefy&hide_border=true" /></a>
