@@ -5,5 +5,3 @@
 - 🌟 In my free time, I enjoy working on personal projects and exploring new technologies.
 - 📫 Feel free to reach out to me at [adubey4558@sdsu.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/aayushidubey16/).
 - 🏢 I’m actively seeking full time opportunities.
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushidubey16&layout=compact&theme=buefy&hide_border=true" /></a>
